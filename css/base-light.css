@@ -1,0 +1,388 @@
+/* =Table of Contents
+--------------------------------------------------------------
+	=Common Styles
+	=Typography
+	=Buttons
+	=Progress Bars
+    =Tabs
+    =Panels
+    =Thumbnails
+    =Accordion
+	=Call to Action
+	=Navigation
+	=Jumbotron Main
+    =Jumbotron Register
+	=Hello Intro
+	=Our Process
+	=Testimonial
+	=Services
+    =About
+    =Profile
+    =Count
+	=Team
+	=Work
+	=Pricing
+	=Timeline
+	=Contact + Map
+    =Footer
+    =Media Queries
+*/
+
+/* =Common Styles
+-------------------------------------------------------------- */
+.logo {
+}
+
+body {
+}
+
+.section-title h2 {
+}
+
+.section-divider {
+}
+
+.heading-1 {
+}
+
+.heading-2 {
+}
+
+.heading-3 {
+}
+
+.heading-3-icon {
+}
+
+.breadcrumb-holder {
+}
+
+.breadcrumb a {
+}
+
+.breadcrumb-home {
+}
+
+.breadcrumb-holder h1 {
+}
+
+.breadcrumb > li + li:before {
+}
+
+.mini-hr {
+}
+
+.background1 {
+}
+.background2 {
+}
+
+#iconfonts {
+  color: #fff;
+}
+#iconfonts h2 {
+  color: #fff;
+}
+
+.demo_changer .form_holder {
+ 
+}
+
+.demo_changer h4 {
+ 
+}
+
+.demo_changer hr {
+ 
+}
+
+/* =Typography
+-------------------------------------------------------------- */
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+}
+
+.lead strong {
+}
+
+.text-switch {
+}
+
+/* =Buttons
+-------------------------------------------------------------- */
+.btn-default {
+}
+
+.btn-light {
+}
+
+/* =Progress Bars
+-------------------------------------------------------------- */
+.progress {
+}
+
+.progress-meter {
+}
+
+.progress-meter > .meter {
+}
+
+.progress-meter > .meter > .meter-text {
+}
+
+/* =Tabs
+-------------------------------------------------------------- */
+.nav-tabs {
+}
+
+.tab-content.tab-default {
+}
+
+.tab-pane::first-letter {
+}
+
+/* =Panels
+-------------------------------------------------------------- */
+.panel-group .panel-heading + .panel-collapse > .list-group,
+.panel-group .panel-heading + .panel-collapse > .panel-body {
+}
+
+.panel-default > .panel-heading {
+}
+
+.panel-default {
+}
+
+/* =Thumbnails
+-------------------------------------------------------------- */
+.thumbnail {
+}
+
+/* =Modals
+-------------------------------------------------------------- */
+.modal-content {
+}
+
+.modal-body p {
+}
+
+.close {
+}
+
+/* =Navigation
+-------------------------------------------------------------- */
+.navbar-default {
+}
+
+.navbar-default .navbar-nav > li > a {
+}
+
+.navbar-default .navbar-nav > li > a:focus,
+.navbar-default .navbar-nav > li > a:hover {
+}
+
+.dropdown-menu > li > a {
+}
+
+.dropdown-menu > li > a:focus,
+.dropdown-menu > li > a:hover {
+}
+
+.dropdown-menu {
+}
+
+.navbar-default .navbar-collapse,
+.navbar-default .navbar-form {
+}
+
+/* =Hello Intro
+-------------------------------------------------------------- */
+#hello-intro h2 {
+}
+
+#hello-intro h3 {
+}
+
+#hello-intro h3 strong {
+}
+
+/* =Our Process
+-------------------------------------------------------------- */
+#our-process-title {
+}
+
+#our-process-title h4 {
+}
+
+#our-process-title::after {
+}
+
+#our-process h2 {
+}
+
+#our-process .process-box {
+}
+
+#our-process .process-number {
+}
+
+#our-process .process-content p {
+}
+
+/* =Testimonial
+-------------------------------------------------------------- */
+.testimonial-carousel {
+}
+
+.fade-quote-carousel blockquote {
+}
+
+.fade-quote-carousel.carousel p {
+}
+
+/* =Services
+-------------------------------------------------------------- */
+.services-icon-2 {
+}
+
+.service-title {
+}
+
+.services-box {
+}
+
+.services-badge {
+}
+
+/* =About
+-------------------------------------------------------------- */
+.logo-about {
+}
+
+/* =Profile
+-------------------------------------------------------------- */
+.profile-box {
+}
+
+.profile-box strong {
+}
+
+.profile-box ul li {
+}
+
+/* =Our Count
+-------------------------------------------------------------- */
+#ourcount .item > .circle-hold > i {
+}
+
+/* =Team
+-------------------------------------------------------------- */
+.team-member-img {
+}
+
+.team-member-box {
+}
+
+.team-member-box:hover {
+}
+
+.team-image-wrapper .team-image-hover .team-hover-content {
+}
+
+/* =Work
+-------------------------------------------------------------- */
+.btn-category {
+}
+
+.portfolio-image-holder:before {
+}
+
+span.portfolio-hover a {
+}
+
+/* =Pricing
+-------------------------------------------------------------- */
+.plan {
+}
+
+.plan li {
+}
+
+.plan li.plan-name {
+}
+
+.plan.featured li.plan-name {
+}
+
+.plan.featured:hover li.plan-name {
+}
+
+.plan:hover li.plan-name {
+}
+
+.pricing-clients {
+}
+
+/* =Timeline
+-------------------------------------------------------------- */
+.timeline:before {
+}
+
+.timeline > li .timeline-image {
+}
+
+/* =Contact + Map
+-------------------------------------------------------------- */
+#contact .form-control {
+}
+
+.has-error .form-control {
+}
+
+.has-error .checkbox,
+.has-error .checkbox-inline,
+.has-error .control-label,
+.has-error .help-block,
+.has-error .radio,
+.has-error .radio-inline,
+.has-error.checkbox label,
+.has-error.checkbox-inline label,
+.has-error.radio label,
+.has-error.radio-inline label {
+}
+
+.has-error .form-control:focus {
+}
+
+/* =Footer
+-------------------------------------------------------------- */
+.theme-title {
+}
+
+footer hr {
+}
+
+.social-icons-dark-hover {
+}
+
+.social-icons-dark-hover:hover {
+}
+
+.social-icons-light-hover {
+}
+
+.social-icons-light-hover:hover {
+}
+
+/* =Media Queries
+-------------------------------------------------------------- */
